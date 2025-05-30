@@ -28,7 +28,7 @@ education:
     "Self-Taught Developer",
     "B.Tech at IIT Dharwad (2021 - 2025, GPA: 8.21/10)"
   ]
-company: Together Buzz
+company: Future AGI
 
 fields_of_interests:
   [
@@ -39,6 +39,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Backend Developer Intern at Future AGI"
     "Backend Developer Intern at Together Buzz",
     "Technical Team Lead at Career Development Cell ( IIT Dharwad )"
     "Full Stack Developer at Smart Mess Management System ( IIT Dharwad )",
